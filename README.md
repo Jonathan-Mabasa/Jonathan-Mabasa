@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Amukelani J-Mabasa
+- 👋 Hi, It's MJ Mabasa AKA Jon_ssid
 - 👀 I’m interested in 1D game coding
 - 🌱 I’m currently learning Software development
 - 💞️ I’m looking to collaborate on 1D games
